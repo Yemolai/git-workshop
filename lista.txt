@@ -1,6 +1,6 @@
 nome;sobrenome
 Rômulo;Rodrigues
-Bruna;
+	Bruna;Dolzan
 Marcos;
 Alan;
 Filipe;
